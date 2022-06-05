@@ -1,6 +1,6 @@
 <html>
 <body>
-    <h1>This is test change6</h1>
+    <h1>This is test change7</h1>
     <h1>This is test change2</h1>
   <h1>This is test change</h1>
   <h1>This will trigger the maven build job and this job will trigger the maven deploy job</h1>
